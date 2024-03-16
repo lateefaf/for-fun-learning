@@ -10,4 +10,4 @@ def algo(n):
     return s
 
 
-print(algo(3))
+print(algo(7329151234))
