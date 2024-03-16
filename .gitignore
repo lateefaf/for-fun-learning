@@ -1,0 +1,14 @@
+
+# JetBrains IDEs
+.idea/
+
+# Python - Bytecode files, etc.
+__pycache__/
+*.pyc
+
+# macOS - Finder artifacts
+.DS_Store
+
+# Virtual Environments
+venv/
+.env
